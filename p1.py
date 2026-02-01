@@ -1,1 +1,1 @@
-print("spark-core INSERT")
+print("spark-core UPDATE")
